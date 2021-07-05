@@ -1,3 +1,4 @@
+#author Ricardo Pereira
 from time import sleep
 
 import selenium
