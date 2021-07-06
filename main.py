@@ -151,7 +151,7 @@ else:
 
 
     def open_anime_search(anime_name):
-        anime_driver.get(f'https://www.anitube.biz/?s={anime_name.split("    ")[0]}')
+        anime_driver.get(f'https://gogoanime.pe//search.html?keyword={anime_name.split("    ")[0]}')
 
 
     def y_n_verification(message):
